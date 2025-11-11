@@ -1,0 +1,11 @@
+pandas
+
+# --- Required for Streamlit Cloud Run UI ---
+streamlit==1.40.0
+numpy
+requests
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-cloud-storage
+scikit-learn==1.6.1

@@ -1,0 +1,18 @@
+# CRITICAL: Security & Credentials
+sa_key.json
+*.key
+*.env
+
+# Python/IDE/Build Cache
+__pycache__/
+*.pyc
+*.log
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Virtual Environment
+venv/
+.venv/
+
+# System Files
+.DS_Store
